@@ -10,6 +10,15 @@
  ![Private subnet](/Private-Subnet-Screenshot.jpeg)
  #### Public Subnet
  ![Public subnet](/Public-Subnet-Screenshot.jpeg)
+ ### Internet Gateway
+ An internet gateway was created.
+ ![Internet Gateway](/internet-gateway-Screenshot.jpeg)
+ ### NACLs Creation
+ A Network Access Control List was created as a security layer.
+ ![NACLs Details](/NACLs-Screenshot.jpeg)
  ### Security Group Creation
- Security group was created to allow inbound traffic
- 
+ Security group was created to allow inbound traffic.
+ ![Security group](/Security-Group-Screenshot.jpeg)
+ ### Launching of EC2 Instance
+Ec2 instance was launched.
+![EC2 Instance](/ec2-Instance-Screenshot.jpeg)
